@@ -1,0 +1,28 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="gs-ml-object-classification" type="general_sw" format="projectfile" name="ML Object Classification">
+    <display_title>
+        ML Kitchen Pantry Object Classification
+    </display_title>
+    <overview>
+        <![CDATA[Step-by-step guide for deployment of an object classification model on an MCU-based system. The classification model is developed by fine-tuning a MobileNet model using transfer learning. ]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="imxrt"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="MIMXRT1170-EVK"></hw>
+    </nxp_compatible_hw>
+    <nxp_ebh_hw>
+        <ebh id="nxp_rk055hdmipi4ma0"></ebh>
+    </nxp_ebh_hw>
+    <peripherals>
+        <peripheral name="display"></peripheral>
+        <peripheral name="video"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="aiml"></category>
+        <category name="vision"></category>
+    </categories>
+</data:item>

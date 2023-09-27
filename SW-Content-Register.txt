@@ -1,0 +1,18 @@
+NXP Software Content Register
+
+Release Name: gs-ml-kitchen-pantry-object-classification
+Release Version: 1.0
+Package License: LA_OPT_NXP_Software_License v48 July 2023- Additional Distribution License granted, license in Section 2.3 applies
+License File: LICENSE.txt
+Description: This application code is to deploy an ml object classification model based on an RT1170-EVK.
+Release Location: https://github.com/nxp-appcodehub/gs-ml-kitchen-pantry-object-classification
+Origin: NXP (BSD-3-Clause)
+        NXP (Proprietary)
+        ITE SDK Components (BSD-3-Clause)
+        ARM CMSIS (Apache License 2.0) - https://github.com/ARM-software/CMSIS_5/releases
+        TensorFlow Lite for Microcontrollers (Apache License 2.0) - https://github.com/tensorflow/tensorflow 
+        MobileNet (Apache License 2.0) - https://github.com/tensorflow/tfjs-models/tree/master/mobilenet 
+        FlatBuffers (Apache License 2.0) - https://github.com/google/flatbuffers 
+        gemmlowp (Apache License 2.0) - https://github.com/google/gemmlowp 
+        ruy (Apache License 2.0) - https://github.com/google/ruy
+        ARM CMSIS-NN library (Apache License 2.0) - https://github.com/ARM-software/CMSIS-NN 
