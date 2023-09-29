@@ -1,4 +1,4 @@
-<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="gs-ml-object-classification" type="general_sw" format="projectfile" name="ML Object Classification">
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="gs-ml-kitchen-pantry-object-classification" type="general_sw" format="projectfile" name="ML Kitchen Pantry Object Classification">
     <display_title>
         ML Kitchen Pantry Object Classification
     </display_title>
